@@ -1,0 +1,20 @@
+1,Popcorn,$ 23.00,palomitas.jpg
+2,Soda,$ 18.00,refresco.jpeg
+3,Nachos,$ 35.00,nachos.jpeg
+4,Hot Dog,$ 30.00,hot dog.jpg
+5,Pizza,$ 50.00,pizza.jpg
+6,Ice Cream,$ 25.00,helado.jpg
+7,Chocolate,$ 20.00,chocolate.jpeg
+8,Cookies,$ 15.00,galletas.jpeg
+9,French Fries,$ 28.00,papas fritas.jpeg
+10,Candy,$ 10.00,dulces.jpeg
+11,Iced Tea,$ 12.00,agua.jpeg
+12,Sushi,$ 22.00,cafe.jpeg
+13,Salmon,$ 20.00,te.png
+14,Burritos,$ 26.00,brownie.jpeg
+15,Salad,$ 40.00,panini.jpeg
+16,Tostitos wirh cheese,$ 32.00,ensalada.jpeg
+17,Milk Shake,$ 27.00,smoothie.jpeg
+18,Boneless,$ 18.00,yogur.jpeg
+19,Lemonade,$ 24.00,empanada.jpeg
+20,Gummies,$ 38.00,sandwich.jpeg
